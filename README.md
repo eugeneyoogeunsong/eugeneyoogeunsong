@@ -1,17 +1,17 @@
 # 👋 Hi there!
 
-I am [**Eugene (Yoogeun) Song**](https://www.linkedin.com/in/yoogeunsong), a PhD researcher in **high-energy physics** at [Imperial College London](https://www.imperial.ac.uk/physics/), working on neutrinos with [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/) under [Dr Linda Cremonesi](https://profiles.imperial.ac.uk/l.cremonesi). My work sits at the point where physical modelling, machine learning and statistical inference stop being separate disciplines and become one problem: **inference under uncertainty**.
+I am [**Eugene (Yoogeun) Song**](https://www.linkedin.com/in/yoogeunsong), a PhD researcher in **high-energy physics** at [Imperial College London](https://www.imperial.ac.uk/physics/), working on neutrinos with [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/) under [Dr Linda Cremonesi](https://profiles.imperial.ac.uk/l.cremonesi). Physical modelling, machine learning and statistical inference are not three disciplines to me. They are one problem with three names: **inference under uncertainty**.
 
-Currently working on:
+**Currently working on, from 2026 onwards:**
 
 - 🌌 **[Neutrino oscillations](https://yoogeunsong.com/research/#neutrinos-and-beyond-standard-model-bsm-physics)** — a variety of physics analyses on [NOvA](https://yoogeunsong.com/projects/2_nova/), which has data today, and systematics-aware ML reconstruction, Bayesian and MCMC inference, and Near-to-Far Detector constraint propagation for the [DUNE](https://yoogeunsong.com/projects/1_dune/) Near Detector
 - 🫀 **[Physics-informed neural networks](https://yoogeunsong.com/projects/3_atripinn/)** — real-time atrial fibrillation mapping from grid electrograms, at ~78 ms latency and ~1.6 mm RMS localisation error
 - ⚛️ **[Quantum-accelerated CFD](https://yoogeunsong.com/projects/5_singularity/)** — the classical solver and hybrid layer behind non-invasive cardiovascular diagnostics
 - 📈 **[Quantitative research](https://yoogeunsong.com/projects/4_quant/)** — alpha generation under non-stationary market dynamics
 
-Previously: [general-relativistic magnetohydrodynamics of Sagittarius A\*](https://yoogeunsong.com/projects/6_sgra/), [black hole magnetospheres](https://yoogeunsong.com/projects/9_gamma/) and [Blandford–Znajek energy extraction](https://yoogeunsong.com/projects/7_kerr/), and [early-universe cosmology](https://yoogeunsong.com/projects/10_cosmology/).
+**Previously:** [general-relativistic magnetohydrodynamics of Sagittarius A\*](https://yoogeunsong.com/projects/6_sgra/), [black hole magnetospheres](https://yoogeunsong.com/projects/9_gamma/) and [Blandford–Znajek energy extraction](https://yoogeunsong.com/projects/7_kerr/), and [early-universe cosmology](https://yoogeunsong.com/projects/10_cosmology/).
 
-I began university physics at **age 7** and published my first [first-author paper](https://yoogeunsong.com/projects/9_gamma/) in [_MNRAS Letters_](https://academic.oup.com/mnrasl/article/471/1/L135/4036899) at **age 19**.
+I enrolled in [university physics](https://yoogeunsong.com/cv/#awards) at **age 7** and finished a [BSc](https://yoogeunsong.com/cv/#awards) at **age 11**, a record that remains unmatched in Korea. My first [first-author paper](https://yoogeunsong.com/projects/9_gamma/) followed at **age 19**, in [_MNRAS Letters_](https://academic.oup.com/mnrasl/article/471/1/L135/4036899), on gamma radiation from extremely rotating black holes. Twenty years on I am still chasing hard physics problems, neutrinos now. The early start is the part people remember; the part I care about is that the questions kept getting harder.
 
 ---
 
