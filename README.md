@@ -4,7 +4,7 @@ I am [**Eugene (Yoogeun) Song**](https://www.linkedin.com/in/yoogeunsong), a PhD
 
 **Currently working on, from 2026 onwards:**
 
-- 🌌 **[Neutrino oscillations](https://yoogeunsong.com/research/#neutrinos-and-beyond-standard-model-bsm-physics)** — a variety of physics analyses on [NOvA](https://yoogeunsong.com/projects/2_nova/), which has data today, and systematics-aware ML reconstruction, Bayesian and MCMC inference, and Near-to-Far Detector constraint propagation for the [DUNE](https://yoogeunsong.com/projects/1_dune/) Near Detector
+- 🌌 **[Neutrino oscillations](https://yoogeunsong.com/research/#neutrinos-and-beyond-standard-model-bsm-physics)** — systematics-aware ML reconstruction, Bayesian and MCMC inference, and Near-to-Far Detector constraint propagation for the [DUNE](https://yoogeunsong.com/projects/1_dune/) Near Detector, alongside a variety of physics analyses on [NOvA](https://yoogeunsong.com/projects/2_nova/), which has data today
 - 🫀 **[Physics-informed neural networks](https://yoogeunsong.com/projects/3_atripinn/)** — real-time atrial fibrillation mapping from grid electrograms, at ~78 ms latency and ~1.6 mm RMS localisation error
 - ⚛️ **[Quantum-accelerated CFD](https://yoogeunsong.com/projects/5_singularity/)** — the classical solver and hybrid layer behind non-invasive cardiovascular diagnostics
 - 📈 **[Quantitative research](https://yoogeunsong.com/projects/4_quant/)** — alpha generation under non-stationary market dynamics
