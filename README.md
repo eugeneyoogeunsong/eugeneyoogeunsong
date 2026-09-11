@@ -8,6 +8,13 @@
 
 I am [**Eugene (Yoogeun) Song**](https://www.linkedin.com/in/yoogeunsong), a PhD researcher in **high-energy physics** at [Imperial College London](https://www.imperial.ac.uk/physics/), working on neutrinos with [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/) under [Dr Linda Cremonesi](https://profiles.imperial.ac.uk/l.cremonesi). Physical modelling, machine learning and statistical inference are not three disciplines to me. They are one problem with three names: **inference under uncertainty**.
 
+<p align="center">
+  <a href="https://www.imperial.ac.uk/physics/"><img src="assets/logos/imperial.png" alt="Imperial College London" width="200"></a>
+  <a href="https://www.dunescience.org/"><img src="assets/logos/dune.png" alt="DUNE" width="200"></a>
+  <a href="https://novaexperiment.fnal.gov/"><img src="assets/logos/nova.png" alt="NOvA" width="200"></a>
+  <a href="https://singularityquantum.com/"><img src="assets/logos/singularity.png" alt="Singularity Quantum" width="200"></a>
+</p>
+
 **Currently working on, from 2026 onwards:**
 
 - 🌌 **[Neutrino oscillations](https://yoogeunsong.com/research/#neutrinos-and-beyond-standard-model-bsm-physics)** — systematics-aware ML reconstruction, Bayesian and MCMC inference, and Near-to-Far Detector constraint propagation for the [DUNE](https://yoogeunsong.com/projects/1_dune/) Near Detector, alongside a variety of physics analyses on [NOvA](https://yoogeunsong.com/projects/2_nova/), which has data today
