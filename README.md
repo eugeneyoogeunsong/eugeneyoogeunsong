@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/london-banner.jpg" alt="The Thames at dusk, Tower Bridge in the foreground and Canary Wharf beyond" width="100%">
+</p>
+
+<p align="center"><sub>London — where I work, at Imperial College London.</sub></p>
+
 # 👋 Hi there!
 
 I am [**Eugene (Yoogeun) Song**](https://www.linkedin.com/in/yoogeunsong), a PhD researcher in **high-energy physics** at [Imperial College London](https://www.imperial.ac.uk/physics/), working on neutrinos with [DUNE](https://www.dunescience.org/) and [NOvA](https://novaexperiment.fnal.gov/) under [Dr Linda Cremonesi](https://profiles.imperial.ac.uk/l.cremonesi). Physical modelling, machine learning and statistical inference are not three disciplines to me. They are one problem with three names: **inference under uncertainty**.
