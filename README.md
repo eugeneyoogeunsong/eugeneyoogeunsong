@@ -2,7 +2,7 @@
   <img src="assets/london-banner.jpg" alt="The Thames at dusk, Tower Bridge in the foreground and Canary Wharf beyond" width="100%">
 </p>
 
-<p align="center"><sub>London — where I work, at Imperial College London.</sub></p>
+<p align="center"><sub>London, UK — where I work, at Imperial College London.</sub></p>
 
 # 👋 Hi there!
 
